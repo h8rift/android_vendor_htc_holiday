@@ -18,7 +18,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/holiday/proprietary/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
     vendor/htc/holiday/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/htc/holiday/proprietary/lib/liboncrpc.so:obj/lib/liboncrpc.so \
-    vendor/htc/holiday/proprietary/lib/libnv.so:obj/lib/libnv.so
+    vendor/htc/holiday/proprietary/lib/libnv.so:obj/lib/libnv.so \
+    vendor/htc/holiday/proprietary/lib/libv8.so:obj/lib/libv8.so
 
 # Audio Blobs
 PRODUCT_COPY_FILES += \
